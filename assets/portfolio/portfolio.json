@@ -1,0 +1,41 @@
+{
+    "categories": [
+        {
+            "id": "luminotecnico",
+            "label": "Luminotécnico",
+            "title": "Projeto Luminotécnico",
+            "desc": "Estudo e distribuição de iluminação com foco em conforto visual e eficiência.",
+            "images": [
+                "01.png",
+                "02.png",
+                "03.png"
+            ]
+        },
+        {
+            "id": "baixa-tensao-residencial",
+            "label": "BT Residencial",
+            "title": "Elétrica de Baixa Tensão — Residencial",
+            "desc": "Dimensionamento, distribuição e detalhamento executivo.",
+            "images": [
+                "01.png",
+                "02.png",
+                "03.png",
+                "05_de_14-A2-ELÉTRICA - GARAGEM-JÚLIO E GABI-R00.pdf",
+                "06_de_14-A1-ELÉTRICA - TÉRREO-JÚLIO E GABI-R00.pdf",
+                "07_de_14-A1-ELÉTRICA - SUPERIOR-JÚLIO E GABI-R00.pdf",
+                "08_de_14-A1-ELÉTRICA - SOLARIUM-JÚLIO E GABI-R00.pdf"
+            ]
+        },
+        {
+            "id": "baixa-tensao-comercial",
+            "label": "BT Comercial",
+            "title": "Elétrica de Baixa Tensão — Comercial",
+            "desc": "Organização de circuitos, cargas e documentação técnica.",
+            "images": [
+                "01.png",
+                "02.png",
+                "03.png"
+            ]
+        }
+    ]
+}
